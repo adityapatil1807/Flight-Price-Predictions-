@@ -128,6 +128,6 @@ Libraries used: numpy, pandas, matplotlib, scikit-learn, notebook, ipykernel.
 <!-- FILL: edit to match what your team actually did, including how you checked the output -->
 
 - Claude: helped debug notebook errors, improve graph styling, and draft the setup instructions in this README; we tested every step on a fresh clone.
--AI was used to sort the dataset
+- AI was used to sort the dataset
 - No AI was used to generate the dataset or the results.
 
