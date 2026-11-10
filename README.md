@@ -82,7 +82,19 @@ pip install -r requirements.txt
 
 Libraries used: numpy, pandas, matplotlib, scikit-learn, notebook, ipykernel.
 
-## How to run through VS Code
+## How to run
+
+Choose Option A (Jupyter in the browser) or Option B (VS Code).
+
+## Option A: Jupyter Notebook
+1. Start Jupyter from the project folder (keep this terminal open while you work):
+bash
+   jupyter notebook
+2. A browser window opens. If it does not, copy the http://localhost:8888/... link from the terminal into your browser.
+3. Click **CODE.ipynb**.
+4. Click **Kernel → Restart & Run All**.
+
+## Option B: VS Code
 1. Open the project folder **(File → Open Folder)**.
 2. Click **CODE.ipynb**.
 3. Click **Kernel → Restart & Run All**.
