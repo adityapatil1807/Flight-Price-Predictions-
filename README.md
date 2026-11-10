@@ -45,7 +45,7 @@ Follow these commands in the given order.
 
 Step 1: Clone the GitHub repository
 
-git clone https://github.com/STanishqReddy/AI101-MiniProject-CKD-Logistic-Regression.git
+git clone https://github.com/adityapatil1807/Flight-Price-Predictions-.git
 Step 2: Navigate to the project directory
 
 cd AI101-MiniProject-CKD-Logistic-Regression
