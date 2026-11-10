@@ -82,12 +82,13 @@ pip install -r requirements.txt
 
 Libraries used: numpy, pandas, matplotlib, scikit-learn, notebook, ipykernel.
 
-## How to run
-1. Click **CODE.ipynb**.
-2. Click **Kernel → Restart & Run All**.
-3. The notebook reads the dataset from `data/Dataset.csv`.
-4. Wait for Sections 1 to 11 to finish. They load the data, train the Linear Regression model, and print MAE, MSE, RMSE and R².
-5. **Section 12 asks for input.** An input box appears below the cell. Type each value and press Enter. Example:
+## How to run through VS Code
+1. Open the project folder **(File → Open Folder)**.
+2. Click **CODE.ipynb**.
+3. Click **Kernel → Restart & Run All**.
+4. The notebook reads the dataset from `data/Dataset.csv`.
+5. Wait for Sections 1 to 11 to finish. They load the data, train the Linear Regression model, and print MAE, MSE, RMSE and R².
+6. **Section 12 asks for input.** An input box appears below the cell. Type each value and press Enter. Example:
 
    | Question | Example answer |
    |---|---|
