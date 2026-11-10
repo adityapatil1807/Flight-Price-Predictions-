@@ -2,7 +2,7 @@
 
 Predicts flight ticket prices between 6 Indian cities using Linear Regression (pandas, numpy, matplotlib, scikit-learn).
 
-![AI101 Mini-Project](https://img.shields.io/badge/AI101-Mini--Project-blue) ![Group 52](https://img.shields.io/badge/Team-XX-blue) ![Python](https://img.shields.io/badge/Python-3.14%2B-blue)
+![AI101 Mini-Project](https://img.shields.io/badge/AI101-Mini--Project-blue) ![Team](https://img.shields.io/badge/Team-52-blue) ![Python](https://img.shields.io/badge/Python-3.14%2B-blue)
 
 <!-- FILL: replace XX with your team number -->
 
@@ -10,10 +10,10 @@ Predicts flight ticket prices between 6 Indian cities using Linear Regression (p
 
 | Member | Entry no. | Role |
 |---|---|---|
-| Patil Aditya Anil | 2036AIB1065 | Documentation lead |
+| Aditya Patil | 2036AIB1065 | Documentation lead |
 | Shaurya Kambhoj | 2026MCB1567 | Execution lead |
 | Nipun Singhal | 2026EEB1386 | PPT lead |
-| Jarmik Sandipbhai Jethwa | 2026EEB1357 | Video lead |
+| Jarmik Jethwa | 2026EEB1357 | Video lead |
 
 All four members contributed code (see commit history).
 
