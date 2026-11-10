@@ -88,8 +88,9 @@ Choose Option A (Jupyter in the browser) or Option B (VS Code).
 
 ## Option A: Jupyter Notebook
 1. Start Jupyter from the project folder (keep this terminal open while you work):
-bash
-   jupyter notebook
+```bash
+jupyter notebook
+```
 2. A browser window opens. If it does not, copy the http://localhost:8888/... link from the terminal into your browser.
 3. Click **CODE.ipynb**.
 4. Click **Kernel → Restart & Run All**.
