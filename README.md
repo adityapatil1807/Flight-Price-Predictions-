@@ -2,7 +2,7 @@
 
 Predicts flight ticket prices between 6 Indian cities using Linear Regression (pandas, numpy, matplotlib, scikit-learn).
 
-![AI101 Mini-Project](https://img.shields.io/badge/AI101-Mini--Project-blue) ![Team](https://img.shields.io/badge/Team-XX-blue) ![Python](https://img.shields.io/badge/Python-3.14%2B-blue)
+![AI101 Mini-Project](https://img.shields.io/badge/AI101-Mini--Project-blue) ![Group 52](https://img.shields.io/badge/Team-XX-blue) ![Python](https://img.shields.io/badge/Python-3.14%2B-blue)
 
 <!-- FILL: replace XX with your team number -->
 
@@ -83,16 +83,11 @@ pip install -r requirements.txt
 Libraries used: numpy, pandas, matplotlib, scikit-learn, notebook, ipykernel.
 
 ## How to run
-
-1. Start Jupyter from the project folder:
-   ```bash
-   jupyter notebook
-   ```
-2. A browser window opens. Click **CODE.ipynb**.
-3. Click **Kernel → Restart & Run All**.
-4. The notebook reads the dataset from `data/Dataset.csv`.
-5. Wait for Sections 1 to 11 to finish. They load the data, train the Linear Regression model, and print MAE, MSE, RMSE and R².
-6. **Section 12 asks for input.** An input box appears below the cell. Type each value and press Enter. Example:
+1. Click **CODE.ipynb**.
+2. Click **Kernel → Restart & Run All**.
+3. The notebook reads the dataset from `data/Dataset.csv`.
+4. Wait for Sections 1 to 11 to finish. They load the data, train the Linear Regression model, and print MAE, MSE, RMSE and R².
+5. **Section 12 asks for input.** An input box appears below the cell. Type each value and press Enter. Example:
 
    | Question | Example answer |
    |---|---|
@@ -103,7 +98,7 @@ Libraries used: numpy, pandas, matplotlib, scikit-learn, notebook, ipykernel.
    | Days before the flight (1 to 49) | 15 |
 
    The valid options for each question are shown in square brackets in the prompt. Boarding and dropping point cannot be the same.
-7. Section 13 then draws two graphs for your flight: predicted price vs days before the flight, and predicted price by time of flight.
+6. Section 13 then draws two graphs for your flight: predicted price vs days before the flight, and predicted price by time of flight.
 
 **Expected output:** the evaluation metrics (Section 9), the graphs in Sections 4, 10 and 13, and the predicted price for your flight (Section 12).
 
