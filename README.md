@@ -118,7 +118,7 @@ Libraries used: numpy, pandas, matplotlib, scikit-learn, notebook, ipykernel.
 
 ## Links
 
-- Slides (5): `Final_pdf.pdf` <!-- FILL -->
+- Slides (5): `[Final_pdf.pdf](https://github.com/adityapatil1807/Flight-Price-Predictions-/blob/main/Final_pdf.pdf)
 - Video (max 5:00): <!-- FILL: unlisted YouTube or Drive link, set to "anyone with the link" -->
 
 ## AI-use disclosure
