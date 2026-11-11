@@ -83,7 +83,7 @@ python -m pip install -r requirements.txt
 Libraries used: numpy, pandas, matplotlib, scikit-learn, notebook, ipykernel.
 
 ## How to run
-1.Open VS Code
+1. Open VS Code.
 2. Open the project folder **(Where the repository is saved)**.
 3. Click **CODE.ipynb**.
 4. Click **Select Kernel**.
