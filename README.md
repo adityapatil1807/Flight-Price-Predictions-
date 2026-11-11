@@ -77,19 +77,21 @@ You should see `(venv)` at the start of the terminal line.
 ### 4. Install the required libraries
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 Libraries used: numpy, pandas, matplotlib, scikit-learn, notebook, ipykernel.
 
 ## How to run
-
-1. Open the project folder **(Where the repository is saved)**.
-2. Click **CODE.ipynb**.
-3. Click **Kernel → Restart & Run All**.
-4. The notebook reads the dataset from `data/Dataset.csv`.
-5. Wait for Sections 1 to 11 to finish. They load the data, train the Linear Regression model, and print MAE, MSE, RMSE and R².
-6. **Section 12 asks for input.** An input box appears below the cell. Type each value and press Enter. Example:
+1.Open VS Code
+2. Open the project folder **(Where the repository is saved)**.
+3. Click **CODE.ipynb**.
+4. Click **Select Kernel**.
+5. Choose **venv** kernel, the same which we created.
+6. Select **Run All**.
+7. The notebook reads the dataset from `data/Dataset.csv`.
+8. Wait for Sections 1 to 11 to finish. They load the data, train the Linear Regression model, and print MAE, MSE, RMSE and R².
+9. **Section 12 asks for input.** An input box appears below the cell. Type each value and press Enter. Example:
 
    | Question | Example answer |
    |---|---|
