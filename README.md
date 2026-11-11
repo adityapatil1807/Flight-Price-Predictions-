@@ -84,19 +84,7 @@ Libraries used: numpy, pandas, matplotlib, scikit-learn, notebook, ipykernel.
 
 ## How to run
 
-Choose Option A (Jupyter in the browser) or Option B (VS Code).
-
-## Option A: Jupyter Notebook
-1. Start Jupyter from the project folder (keep this terminal open while you work):
-```bash
-jupyter notebook
-```
-2. A browser window opens. If it does not, copy the http://localhost:8888/... link from the terminal into your browser.
-3. Click **CODE.ipynb**.
-4. Click **Kernel → Restart & Run All**.
-
-## Option B: VS Code
-1. Open the project folder **(File → Open Folder)**.
+1. Open the project folder **(Where the repository is saved)**.
 2. Click **CODE.ipynb**.
 3. Click **Kernel → Restart & Run All**.
 4. The notebook reads the dataset from `data/Dataset.csv`.
@@ -116,10 +104,6 @@ jupyter notebook
 
 **Expected output:** the evaluation metrics (Section 9), the graphs in Sections 4, 10 and 13, and the predicted price for your flight (Section 12).
 
-**Expected runtime:** about X minutes. <!-- FILL: time it yourself -->
-
-![Expected output](outputs/expected_output.png)
-<!-- FILL: save a screenshot as outputs/expected_output.png -->
 
 ## Troubleshooting
 
