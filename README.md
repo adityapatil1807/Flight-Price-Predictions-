@@ -75,7 +75,10 @@ Use the line for your terminal:
 You should see `(venv)` at the start of the terminal line.
 
 ### 4. Install the required libraries
-
+```bash
+pip install -r requirements.txt
+```
+If it shows error - **'..venv\Scripts\pip.exe' was blocked by your organization's Device Guard policy. Contact your support person for more info.**, the use the following command:
 ```bash
 python -m pip install -r requirements.txt
 ```
