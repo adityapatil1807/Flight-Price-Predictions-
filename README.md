@@ -11,7 +11,7 @@ Predicts flight ticket prices between 6 Indian cities using Linear Regression (p
 | Member | Entry no. | Role |
 |---|---|---|
 | Aditya Patil | 2026AIB1065 | Documentation lead |
-| Shaurya Kambhoj | 2026MCB1567 | Execution lead |
+| Shaurya Kamboj | 2026MCB1567 | Execution lead |
 | Nipun Singhal | 2026EEB1386 | PPT lead |
 | Jarmik Jethwa | 2026EEB1357 | Video lead |
 
