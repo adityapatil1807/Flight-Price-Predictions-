@@ -51,6 +51,9 @@ Flight-Price-Predictions-/
 
 ```bash
 git clone https://github.com/adityapatil1807/Flight-Price-Predictions-.git
+```
+Then:
+```bash
 cd Flight-Price-Predictions-
 ```
 
